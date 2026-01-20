@@ -7,4 +7,5 @@ TechDen-Zwolle is dé plek voor iedereen die interesse heeft in de de volgende t
 
 De missie van TechDen-Zwolle is gezamelijk leren & leuke dingen maken.  
 
-De TechDen avonden staan in de Stadkamer Zwolle agenda en hebben open inloop. 
+In pricipe zijn we er elke 2 weken op woensdagavond van 19h00-21h00
+De TechDen avonden staan in de Stadkamer Zwolle agenda en zijn open inloop.
