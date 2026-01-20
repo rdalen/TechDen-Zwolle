@@ -1,4 +1,8 @@
 # TechDen-Zwolle
+
+![Image](https://github.com/user-attachments/assets/a8cc414e-3701-42e5-a346-1af508a40030)
+
+
 Samen leren en bouwen met techniek
 
 Dé plek waar mensen samen komen om te leren en bezig te zijn met techniek.
